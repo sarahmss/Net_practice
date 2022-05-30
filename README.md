@@ -10,7 +10,7 @@ All info about the project can be found in Wiki pages:
 5.  [Level 3](https://github.com/sarahmss/Net_practice/wiki/Level-3)
 6.  [Level 4](https://github.com/sarahmss/Net_practice/wiki/Level-4)
 7.  [Level 5](https://github.com/sarahmss/Net_practice/wiki/Level-5)
-8.  [Level 6]()
+8.  [Level 6](https://github.com/sarahmss/Net_practice/wiki/Level-6)
 9.  [Level 7]()
 10.  [Level 8]()
 11.  [Level 9]()
